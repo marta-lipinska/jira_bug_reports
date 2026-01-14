@@ -1,0 +1,1 @@
+Bug reports in Jira
